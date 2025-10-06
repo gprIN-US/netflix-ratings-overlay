@@ -23,7 +23,8 @@ This script automatically fetches the ratings for the title you’re looking at 
 ---
 
 ## 🖼️ Example
-(You can add a screenshot of the badge here once you try it on Netflix.)
+
+<img width="1374" height="745" alt="image" src="https://github.com/user-attachments/assets/3e82b7e1-a415-4b6c-897e-0f5c3402189d" />
 
 ---
 
